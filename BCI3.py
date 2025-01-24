@@ -68,7 +68,7 @@ print(input_data)
 train_input, test_input, train_target, test_target = train_test_split(input_data, y, random_state=42)
 
 
-#모델 훈련 및 학습
+#모델 훈련 및 평가
 lr.fit(train_input, train_target)
 print(lr.classes_)
 
