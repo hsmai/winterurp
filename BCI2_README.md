@@ -1,3 +1,8 @@
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/16cbeeb0-2463-4c00-a648-f773c0fa8623" /> <br><br>
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/da570c91-f829-4e60-8b97-effb20306752" /> <br><br>
+
+
+
 [prob.1~3]  
 
 #Matlab 파일을 파이썬에서 열어서 데이터 확인  
