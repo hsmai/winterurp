@@ -1,2 +1,2 @@
-BCI3/** linguist-documentation=false
-BCI3/** linguist-vendored=false
+BCI3/**/*.py linguist-language=Python
+BCI3/**/*.ipynb linguist-language=Python
