@@ -52,7 +52,7 @@
 
 - **KNN 알고리즘**을 통해 Arousal, Valence 각각의 클래스를 예측
 
-
+![감정분류](images/감정분류.png)
 
 ---
 
