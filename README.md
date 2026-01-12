@@ -13,7 +13,7 @@
 - BCI(Brain-Computer Interface) 데이터 분석
 - CSP(공간 패턴 분해) + LDA를 통한 분류
 - Logistic Regression 실험
-- Conformer 기반 딥러닝 아키텍처 실습
+- EEGNet 기반 딥러닝 아키텍처 실습
 - 실험 환경: Python, Jupyter Notebook, Scikit-learn, PyTorch 등
 
 ---
